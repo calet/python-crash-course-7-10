@@ -1,0 +1,3 @@
+in python you can manipulate lists, but lists doesnt work for all scenarios and can be too complicated for when to order items, so you can use dictonaries.
+You can also loop through the list or dictonary to look for specific items and then print it out for the user, you can also use a combination of lists/dictonaries with loops
+to analyse data and save time by not having to manually go through everything yourself.
